@@ -2,22 +2,27 @@
 
 # 👋 Olá, eu sou Bruno Nunes da Silva
 
-### Desenvolvedor Full Stack • IA Generativa • IoT • Automação • Software Livre
+### Cientista da Computação em Formação | Desenvolvedor Full Stack
 
-<p>
-  <a href="https://devsoft-ai.webnode.page/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@devsoftai5538">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://huggingface.co/BrunoN-Dev">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  </a>
-  <a href="https://github.com/BrunoNunesdaSilva427">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+#### IA Generativa • LLMs • Fine-Tuning • RAG • Python • Go • .NET • IoT • Criador da DevSoft JARVIS AI
+
+<br>
+
+<a href="https://devsoft-ai.webnode.page/">
+<img src="https://img.shields.io/badge/🌐_Website-000000?style=for-the-badge"/>
+</a>
+
+<a href="https://www.youtube.com/@devsoftai5538">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://huggingface.co/BrunoN-Dev">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
+
+<a href="https://github.com/BrunoNunesdaSilva427">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
@@ -25,27 +30,19 @@
 
 # 🚀 Sobre Mim
 
-Sou **programador Full Stack** com **9 anos de experiência** desenvolvendo soluções para web, desktop, automação, Internet das Coisas (IoT) e Inteligência Artificial.
+Sou **Desenvolvedor Full Stack** com **9 anos de experiência** no desenvolvimento de software, criando soluções para aplicações **Web, Desktop, Automação, Internet das Coisas (IoT)** e **Inteligência Artificial**.
 
-Meu foco está na criação de sistemas escaláveis, automações inteligentes e integração entre software e hardware.
+Atualmente curso **Ciência da Computação** e concentro meus estudos e projetos em **IA Generativa**, **Large Language Models (LLMs)**, **Fine-Tuning**, **RAG (Retrieval-Augmented Generation)** e desenvolvimento de agentes inteligentes, priorizando modelos executados localmente para oferecer maior privacidade, desempenho e personalização.
 
-Tenho grande interesse por **Modelos de Linguagem (LLMs)**, **IA Generativa** e **Fine-Tuning**, desenvolvendo soluções que executam localmente para garantir maior privacidade, desempenho e personalização.
-
-Além do desenvolvimento de software, também possuo experiência em:
-
-- 🤖 Inteligência Artificial e LLMs
-- 🧠 Fine-Tuning de modelos locais
-- 🔐 Segurança da Informação e Hacking Ético
-- ⚡ Automação
-- 🌐 Internet das Coisas (IoT)
-- 👥 Liderança e Gestão de Projetos
-- 📈 Finanças e Mercado de Ações
+Também possuo experiência em integração entre software e hardware, segurança da informação, hacking ético, liderança de equipes e gestão de projetos. Sou colaborador de projetos de software livre e apaixonado por construir soluções tecnológicas que resolvem problemas reais.
 
 ---
 
 # 🎓 Formação
 
-🎓 Técnico em Informática — IFRN Campus Nova Cruz
+🎓 **Bacharelado em Ciência da Computação** *(em andamento)*
+
+🎓 **Técnico em Informática — IFRN Campus Nova Cruz**
 
 Foi durante minha formação técnica que despertei um grande interesse pela programação graças ao incentivo do professor **Bruno Neiva Moreno**.
 
@@ -54,25 +51,48 @@ Foi durante minha formação técnica que despertei um grande interesse pela pro
 # 💼 Experiência
 
 - 💻 9 anos desenvolvendo software
-- ⚡ 4 anos atuando no setor elétrico
-- 🤖 Desenvolvimento de soluções com IA
-- 🌎 Desenvolvimento Web
-- 📱 Aplicações Desktop
-- 🔌 Integração Software + Hardware
-- 📡 Projetos IoT
-- 🔐 Segurança da Informação
+- ⚡ 4 anos de experiência no setor elétrico
+- 🤖 Desenvolvimento de soluções com IA Generativa
+- 🧠 Fine-Tuning de Large Language Models (LLMs)
+- 📚 Treinamento de modelos executados localmente
+- 🔎 Desenvolvimento de sistemas RAG
+- 🌎 Desenvolvimento Web Full Stack
+- 📱 Desenvolvimento Desktop
+- 🔌 Integração entre Software e Hardware
+- 📡 Desenvolvimento de projetos IoT
+- 🔐 Segurança da Informação e Hacking Ético
 - 🛠 Automação de Processos
-- 👨‍💼 Coordenação de equipes e projetos
+- 👨‍💼 Liderança e Gestão de Projetos
+- 🐧 Colaborador do OpenSUSE Leap
+
+---
+
+# 🚀 Projeto em Destaque
+
+## 🤖 DevSoft JARVIS AI
+
+Plataforma de Inteligência Artificial voltada para automação, agentes inteligentes e execução local de LLMs.
+
+### Principais recursos
+
+- 🤖 IA Generativa
+- 🧠 Fine-Tuning
+- 💬 Chat com LLMs
+- 📚 RAG
+- 🖼️ Visão Computacional
+- 🎤 Reconhecimento de Voz
+- 🔊 Síntese de Voz
+- ⚡ Execução Local
+- 🔐 Privacidade de Dados
+- 🔌 Integração com APIs
 
 ---
 
 # ❤️ Software Livre
 
-Tenho orgulho de ter colaborado com o desenvolvimento do
+Tenho orgulho de contribuir com o projeto **OpenSUSE Leap**, participando do desenvolvimento de um dos maiores projetos de software livre do mundo.
 
-**OpenSUSE Leap**
-
-contribuindo para um dos maiores projetos de software livre do mundo.
+Acredito que compartilhar conhecimento e colaborar com a comunidade é uma das melhores formas de impulsionar a inovação tecnológica.
 
 ---
 
@@ -81,21 +101,23 @@ contribuindo para um dos maiores projetos de software livre do mundo.
 Atualmente estudo e desenvolvo soluções envolvendo:
 
 - Large Language Models (LLMs)
+- IA Generativa
 - Fine-Tuning
 - Quantização GGUF
-- IA Generativa
-- Modelos locais
+- Modelos Locais
 - Agentes Inteligentes
 - RAG
-- Automação com IA
-- Processamento de Linguagem Natural
+- Machine Learning
+- Processamento de Linguagem Natural (NLP)
 - Visão Computacional
+- Automação com IA
+- Engenharia de Prompts
 
 ---
 
 # 🛠 Tech Stack
 
-## Linguagens
+## 💻 Linguagens
 
 <p>
 
@@ -119,7 +141,7 @@ Atualmente estudo e desenvolvo soluções envolvendo:
 
 </p>
 
-Também trabalho com
+### Também trabalho com
 
 - VB.NET
 - SQL
@@ -127,7 +149,7 @@ Também trabalho com
 
 ---
 
-## Frameworks
+## ⚙️ Frameworks
 
 <p>
 
@@ -143,7 +165,7 @@ Também trabalho com
 
 ---
 
-## Ferramentas
+## 🛠 Ferramentas
 
 <p>
 
@@ -167,21 +189,20 @@ Também trabalho com
 
 # 📚 Áreas de Interesse
 
-- Inteligência Artificial
-- LLMs
-- Fine-Tuning
-- Machine Learning
-- Software Livre
-- Internet das Coisas
-- Segurança da Informação
-- Desenvolvimento Desktop
-- Desenvolvimento Web
-- Automação
-- Engenharia de Software
-- Arquitetura de Sistemas
-- Cloud
-- APIs
-- DevOps
+- 🤖 Inteligência Artificial
+- 🧠 Large Language Models (LLMs)
+- 📚 Fine-Tuning
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 📈 Machine Learning
+- 🌐 Desenvolvimento Full Stack
+- ⚡ Automação
+- 📡 Internet das Coisas (IoT)
+- 🔐 Segurança da Informação
+- 🐧 Software Livre
+- ☁️ Cloud Computing
+- 🔌 APIs
+- 🚀 DevOps
+- 🏗 Arquitetura de Software
 
 ---
 
@@ -189,15 +210,15 @@ Também trabalho com
 
 Ao longo da minha trajetória conquistei **mais de 110 certificações nacionais e internacionais**, incluindo cursos e programas oferecidos por instituições como:
 
-- Harvard University
-- MIT
-- ITA
-- Yale University
-- Duke University
-- University of Michigan
-- Berklee College of Music
+- 🇧🇷 ITA
+- 🇺🇸 Harvard University
+- 🇺🇸 MIT
+- 🇺🇸 Yale University
+- 🇺🇸 Duke University
+- 🇺🇸 University of Michigan
+- 🇺🇸 Berklee College of Music
 
-Sempre buscando aprendizado contínuo e atualização tecnológica.
+Estou sempre buscando novos conhecimentos para acompanhar a evolução da tecnologia.
 
 ---
 
@@ -205,9 +226,9 @@ Sempre buscando aprendizado contínuo e atualização tecnológica.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoNunesdaSilva427&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoNunesdaSilva427&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNunesdaSilva427&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNunesdaSilva427&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -217,36 +238,38 @@ Sempre buscando aprendizado contínuo e atualização tecnológica.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=BrunoNunesdaSilva427&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=BrunoNunesdaSilva427&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📫 Contato
+# 🌎 Onde me encontrar
 
-🌐 Website
+🌐 **Website**
 
 https://devsoft-ai.webnode.page/
 
-🤗 Hugging Face
+💻 **GitHub**
+
+https://github.com/BrunoNunesdaSilva427
+
+🤗 **Hugging Face**
 
 https://huggingface.co/BrunoN-Dev
 
-▶️ YouTube
+▶️ **YouTube**
 
 https://www.youtube.com/@devsoftai5538
-
-💻 GitHub
-
-https://github.com/BrunoNunesdaSilva427
 
 ---
 
 <div align="center">
 
-### "A tecnologia é mais poderosa quando resolve problemas reais."
+## 💡 "A tecnologia é mais poderosa quando resolve problemas reais."
 
-⭐ Obrigado pela visita ao meu perfil!
+### Obrigado pela visita ao meu perfil! ⭐
+
+<img src="https://komarev.com/ghpvc/?username=BrunoNunesdaSilva427&style=for-the-badge&color=blue"/>
 
 </div>
