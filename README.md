@@ -222,18 +222,6 @@ Estou sempre buscando novos conhecimentos para acompanhar a evolução da tecnol
 
 ---
 
-# 📊 Estatísticas
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoNunesdaSilva427&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNunesdaSilva427&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 Sequência de Contribuições
 
 <p align="center">
