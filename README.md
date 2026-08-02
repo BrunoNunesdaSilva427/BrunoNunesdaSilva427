@@ -232,6 +232,31 @@ Estou sempre buscando novos conhecimentos para acompanhar a evolução da tecnol
 
 ---
 
+# 📊 Estatísticas do GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BrunoNunesdaSilva427&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNunesdaSilva427&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+# 📌 Repositórios
+
+<p align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/BrunoNunesdaSilva427&label=Repositórios%20Públicos&query=$.public_repos&color=blue&style=for-the-badge"/>
+</p>
+
+---
+
+# 📈 Gráfico de Atividade
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoNunesdaSilva427&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 # 🌎 Onde me encontrar
 
 🌐 **Website**
