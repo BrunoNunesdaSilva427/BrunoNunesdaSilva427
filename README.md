@@ -222,16 +222,6 @@ Estou sempre buscando novos conhecimentos para acompanhar a evolução da tecnol
 
 ---
 
-# 🔥 Sequência de Contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=BrunoNunesdaSilva427&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Gráfico de Atividade
 
 <p align="center">
