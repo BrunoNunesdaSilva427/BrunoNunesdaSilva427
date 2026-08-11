@@ -222,14 +222,6 @@ Estou sempre buscando novos conhecimentos para acompanhar a evolução da tecnol
 
 ---
 
-# 📈 Gráfico de Atividade
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoNunesdaSilva427&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # 🌎 Onde me encontrar
 
 🌐 **Website**
