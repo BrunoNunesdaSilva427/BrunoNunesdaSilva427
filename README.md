@@ -38,6 +38,21 @@ Também possuo experiência em integração entre software e hardware, seguranç
 
 ---
 
+# 📈 Investimentos
+
+Também atuo como **Investidor e Acionista**, com investimentos em ações e outros ativos do mercado financeiro.
+
+### 📊 Ações
+
+- 🛢️ **PETR4** — Petrobras
+- ⚡ **TAEE11** — Taesa
+- 🏦 **ITSA4** — Itaúsa
+- 📈 **Entre outras empresas e ativos**
+
+Tenho interesse em **renda variável, renda fixa, fundos de investimento, planejamento financeiro, gestão de carteiras e construção de patrimônio no longo prazo**.
+
+---
+
 # 🎓 Formação
 
 🎓 **Bacharelado em Ciência da Computação** *(em andamento)*
@@ -45,6 +60,28 @@ Também possuo experiência em integração entre software e hardware, seguranç
 🎓 **Técnico em Informática — IFRN Campus Nova Cruz**
 
 Foi durante minha formação técnica que despertei um grande interesse pela programação graças ao incentivo do professor **Bruno Neiva Moreno**.
+
+---
+
+# 📊 Educação Financeira e Mercado de Capitais
+
+Também possuo formação complementar em **mercado financeiro, investimentos, gestão de riscos, planejamento financeiro e educação financeira**.
+
+## 🏦 ANBIMA
+
+- 📚 **Fundamentos de Economia e Finanças**
+- ⚠️ **Gestão de Riscos e Performance**
+- 🧠 **Mentalidade Ética**
+- 📈 **Mercado Financeiro de A a Z**
+- 🎯 **Planejamento de Investimentos**
+- 💰 **Fundos de Investimento**
+- 📊 **Gestão de Carteiras e de Riscos Financeiros**
+- 🏦 **Mercado de Renda Fixa**
+- 📈 **Partiu Investir: Renda Variável**
+
+## 💳 Serasa
+
+- 💡 **Educação Financeira Básica**
 
 ---
 
@@ -189,6 +226,8 @@ Atualmente estudo e desenvolvo soluções envolvendo:
 
 # 📚 Áreas de Interesse
 
+### 💻 Tecnologia
+
 - 🤖 Inteligência Artificial
 - 🧠 Large Language Models (LLMs)
 - 📚 Fine-Tuning
@@ -204,6 +243,18 @@ Atualmente estudo e desenvolvo soluções envolvendo:
 - 🚀 DevOps
 - 🏗 Arquitetura de Software
 
+### 📈 Mercado Financeiro
+
+- 📊 Mercado de Capitais
+- 📈 Renda Variável
+- 🏦 Renda Fixa
+- 💰 Fundos de Investimento
+- 🎯 Planejamento de Investimentos
+- 📊 Gestão de Carteiras
+- ⚠️ Gestão de Riscos
+- 💼 Construção de Patrimônio
+- 📚 Educação Financeira
+
 ---
 
 # 🏆 Certificações
@@ -218,7 +269,9 @@ Ao longo da minha trajetória conquistei **mais de 110 certificações nacionais
 - 🇺🇸 University of Michigan
 - 🇺🇸 Berklee College of Music
 
-Estou sempre buscando novos conhecimentos para acompanhar a evolução da tecnologia.
+Também possuo cursos complementares relacionados ao **mercado financeiro, investimentos, gestão de riscos e educação financeira**, incluindo formações da **ANBIMA** e **Serasa**.
+
+Estou sempre buscando novos conhecimentos para acompanhar a evolução da tecnologia e ampliar minha formação profissional.
 
 ---
 
